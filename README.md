@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moonlite-dev.itch.io/](https://moonlite-dev.itch.io/)
 
-- 💬 Ask me about **Unity Programming, C#, C++**
+- 💬 Ask me about **Unity 2D Programming, C#, and C++**
 
 - 📫 How to reach me **ea.developp@gmail.com**
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Game Programming**
 
-- 👨‍💻 All of my projects are available at [https://moonlite-dev.itch.io/](https://moonlite-dev.itch.io/)
+- 👨‍💻 All of my projects are available at [Moonlite Dev](https://moonlite-dev.itch.io/)
 
 - 💬 Ask me about **Unity 2D Programming, C#, and C++**
 
@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/ea-zibrily">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ea-zibrily&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ea-zibrily&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ea-zibrily&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ea-zibrily&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
   ##

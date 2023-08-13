@@ -35,7 +35,7 @@
  
 <div 
  
- ![snake gif](https://github.com/ea-zibrily/ea-zibrily/blob/output/github-contribution-grid-snake.gif)
+ ![image](https://github.com/ea-zibrily/ea-zibrily/assets/87555287/4208395d-d77f-4ce9-876d-2a555a801e20)
 
  
 </div>

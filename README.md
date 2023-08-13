@@ -35,7 +35,7 @@
  
 <div 
  
- ![image](https://github.com/ea-zibrily/ea-zibrily/assets/87555287/4208395d-d77f-4ce9-876d-2a555a801e20)
+ ![image](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
  
 </div>

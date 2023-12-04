@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Game Programming**
 
-- 🎮 Part of [Relax With Us Team](https://github.com/relaxwithus-dev)
-
 - 👨‍💻 All of my projects are available at [Tsukuyomi Std](https://tsukuyomi-std.itch.io/) and [Relax With Us](https://relaxwithus-dev.itch.io/)
 
 - 💬 Ask me about **Unity 2D Programming, C#, and C++**

@@ -34,7 +34,7 @@
 <div 
  
 
- ![Snake animation](https://github.com/ea-zibrily/ea-zibrily/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ea-zibrily/ea-zibrily/blob/output/github-snake-dark.svg)
 
  
 </div>

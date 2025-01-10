@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Tsukuyomi Std](https://tsukuyomi-std.itch.io/) and [Relax With Us](https://relaxwithus-dev.itch.io/)
 
-- 💬 Ask me about **Unity 2D Programming, C#, and C++**
+- 💬 Ask me about **Unity, C#, and C++**
 
 - 📫 How to reach me **ea.developp@gmail.com**
 
@@ -33,7 +33,8 @@
  
 <div 
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/ea-zibrily/ea-zibrily/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>

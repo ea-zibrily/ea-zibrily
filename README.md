@@ -3,7 +3,7 @@
 
 ❤️ I prefer Game Development with C# using UnityEngine.
 
-🤔 I am currently interning at IOTA Kreatif Media and doing my final semester in college.
+🤔 I am currently doing my final semester in college.
 
 ✨ I study: C/C++, C#, Unity, and JavaScript recently
 

@@ -3,7 +3,7 @@
 
 ❤️ I prefer Game Development with C# using UnityEngine.
 
-🤔 I am currently doing my final semester in college.
+🤔 I am currently doing my fresh graduate session era.
 
 ✨ I study: C/C++, C#, Unity, and JavaScript recently
 
@@ -13,7 +13,8 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ea-zibrily&label=Profile%20views&color=0e75b6&style=flat" alt="ea-zibrily" /> </p>
 
-- 🔭 I’m currently studying on **Politeknik Elektronika Negeri Surabaya**
+- 👨🏻‍🎓 I’m have complete my Bachelor Degree on **Politeknik Elektronika Negeri Surabaya**
+- 🔭 I’m currently working on several projects in **Lentera Nusantara Studio**
 - 🌱 I’m currently learning **Game Programming**
 - 👨‍💻 All of my projects are available at [Tsukuyomi Std](https://tsukuyomi-std.itch.io/) and [Relax With Us](https://relaxwithus-dev.itch.io/)
 - 💬 Ask me about `Unity Game Development`
@@ -24,8 +25,8 @@
 - 3+ years of experience in C#, Unity, and Game Development
 - 2+ month of experience in JavaScript
 - 1+ years of experience in C/C++
-- 🏆 Mobile games
-- C/C++, C#, UnityEngine
+- 🏆 Mobile and PC games
+- C/C++, C#, JavaScripts, Unity Engine, Meta Spark AR
 - git
 
 ## Languages and Tools:
@@ -49,6 +50,10 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" height="30" alt="sourcetree logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png" height="30" alt="sourcetree logo"  /></code>
+  <img width="12" />
+  <code><img src="https://static.cdnlogo.com/logos/d/41/docker.svg" height="30" alt="sourcetree logo"  /></code>
   <img width="12" />
 </div>
 

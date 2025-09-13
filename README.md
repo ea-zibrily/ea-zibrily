@@ -13,8 +13,8 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ea-zibrily&label=Profile%20views&color=0e75b6&style=flat" alt="ea-zibrily" /> </p>
 
-- 👨🏻‍🎓 I’m have complete my Bachelor Degree on **Politeknik Elektronika Negeri Surabaya**
-- 🔭 I’m currently working on several projects in **Lentera Nusantara Studio**
+- 👨🏻‍🎓 I’m have complete my Bachelor of Applied Science (BASc) Degree on **Politeknik Elektronika Negeri Surabaya**
+- 🔭 I’m currently working on several projects in [**Lentera Nusantara Studio**](https://lentera-nusantara.com/)
 - 🌱 I’m currently learning **Game Programming**
 - 👨‍💻 All of my projects are available at [Tsukuyomi Std](https://tsukuyomi-std.itch.io/) and [Relax With Us](https://relaxwithus-dev.itch.io/)
 - 💬 Ask me about `Unity Game Development`
@@ -27,7 +27,7 @@
 - 1+ years of experience in C/C++
 - 🏆 Mobile and PC games
 - C/C++, C#, JavaScripts, Unity Engine, Meta Spark AR
-- git
+- git, github, gitlab, bitbucket
 
 ## Languages and Tools:
 <div align="left">

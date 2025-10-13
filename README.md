@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ea-zibrily&label=Profile%20views&color=0e75b6&style=flat" alt="ea-zibrily" /> </p>
 
 - 👨🏻‍🎓 I’m have complete my Bachelor of Applied Science (BASc) Degree on **Politeknik Elektronika Negeri Surabaya**
-- 🔭 I’m currently working on several projects in [**Lentera Nusantara Studio**](https://lentera-nusantara.com/)
+- 🔭 I’m currently working on several projects in [**Bumi Studio**](https://bumistudio.co.id/)
 - 🌱 I’m currently learning **Game Programming**
 - 👨‍💻 All of my projects are available at [Tsukuyomi Std](https://tsukuyomi-std.itch.io/) and [Relax With Us](https://relaxwithus-dev.itch.io/)
 - 💬 Ask me about `Unity Game Development`
